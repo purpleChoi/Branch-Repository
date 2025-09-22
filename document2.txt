@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Merges two subarrays of arr[].
+// i want to sleep
 // First subarray is arr[l..m]
 // Second subarray is arr[m+1..r]
 void merge(int arr[], int l,
