@@ -1,1 +1,1 @@
-print("Hello world!)
+순두부찌개 먹고싶다
